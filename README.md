@@ -15,6 +15,28 @@ Actualmente trabajo como barbero/estilista en mi propio negocio, el cual viene c
 
 Mi objetivo principal es terminar de formarme como programador en cualquiera de sus areas para ir de a poco conociendo las nuevas tendencias e intentar innovar un dia, al mismo tiempo probablemente mantenga mi negocio por fuera tratando de independizarme cada dia mas, hasta lograr automatizarlo.
 
+## ¿Que tecnologías uso?
+
+A traves de estudios en diferentes academias como Platzi y Henry tuve la suerte de poder aprender a manejar diferentes lenguajes, como:
+
+  * HTML5
+  * CSS
+  * JavaScript
+  * React.js
+  * Node.js
+  * Diseño Web Responsivo
+
+## No dudes en cantactarme!
+
+Juntos podremos diseñar el proyecto que mas se amolde a tus necesidades, con el uso de las herramientas adecuadas y escuchando principalmente al contratista.
+
+ * www.linkedin.com/in/diego-balta-336b82334
+ * diegobaltaleon@hotmail.com
+ * +55 (84) 994143283 [Brasil]
+
+
+
+
 
 
 
