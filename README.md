@@ -1,3 +1,5 @@
 # Hola! Mi nombre es Diego Balta
-Tambien conocido como Diego-Balta en Github
+Tambien conocido como Diego-Balta en GitHub
+
+
 
