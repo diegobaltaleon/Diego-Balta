@@ -1,7 +1,7 @@
 # Hola! Mi nombre es Diego Balta
 Tambien conocido como Diego-Balta en GitHub
 
-¿Quién soy?
+#¿Quién soy?
 
 Soy un estudiante de programación, orientando mis estudios al area Full-Stack.
 No hace mucho tiempo me interese en el mundo de la programación, anteriormente estudiaba ingenieria Civil en la Universidad Tecnologica de Córdoba.
