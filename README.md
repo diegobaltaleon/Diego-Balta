@@ -28,7 +28,7 @@ A traves de estudios en diferentes academias como Platzi y Henry tuve la suerte 
 
 ## No dudes en cantactarme!
 
-Juntos podremos diseñar el proyecto que mas se amolde a tus necesidades, con el uso de las herramientas adecuadas y escuchando principalmente al contratista.
+Juntos podremos diseñar el proyecto que mas se amolde a tus necesidades, con el uso de las herramientas adecuadas y escuchando principalmente tus ideas para lograr el mejor resultado.
 
  * www.linkedin.com/in/diego-balta-336b82334
  * diegobaltaleon@hotmail.com
