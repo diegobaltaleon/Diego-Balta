@@ -26,7 +26,7 @@ A traves de estudios en diferentes academias como Platzi y Henry tuve la suerte 
   * Node.js
   * Diseño Web Responsivo
 
-## No dudes en cantactarme!
+## No dudes en contactarme!
 
 Juntos podremos diseñar el proyecto que mas se amolde a tus necesidades, con el uso de las herramientas adecuadas y escuchando principalmente tus ideas para lograr el mejor resultado.
 
